@@ -1,0 +1,10 @@
+My Hope Is That Everyone will use These Folders to organize files.
+
+To Move Files. Right click the file. Click on Cut. Now Paste to where you want to move the file to.
+This moves the file.
+
+Please. Do this. And I will be happy
+Thank you.
+
+This shouldnt really break anything, if it does somehow then just delete the duplicate
+firstinspires.ftc.teamcode folder the folder this Hope.txt file is in, and everything will go back to normal
